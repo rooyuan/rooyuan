@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hullo! I am Leanna and Welcome to my GITHUB 🤩✨
 
 <!--
 **rooyuan/rooyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
